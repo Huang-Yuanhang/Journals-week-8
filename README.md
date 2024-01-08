@@ -99,7 +99,7 @@ Overall, this study has not only provided me with practical technical skills, bu
 - **System Stability**
   - **Performance indicators:** Monitor performance indicators such as page loading time, server response time, etc.
   - **Error rate:** record the frequency of technical errors and failures that occur during use.
-  -
+  
 **Additional metrics (for long-term tracking)**
   - **User retention:** Analyse the retention rate of users after using the new workflow for a long period of time.
   - **Long-term Efficiency Improvement:** Evaluate the improvement in user efficiency after using the new workflow for a long period of time.
